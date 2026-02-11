@@ -1,4 +1,4 @@
 # C
-cejercicios ヽ(・ε ・ *)ﾉ
+Cexercises ヽ(・ε ・ *)ﾉ
 
-programas tontos en C para practicar
+Practicing C by writing tiny pointless programs.
